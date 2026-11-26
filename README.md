@@ -91,7 +91,13 @@ Technologies: Java · Android SDK · SQLite
 
 📊 GitHub Statistics
 
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=ramibinaffi-lgtm&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramibinaffi-lgtm&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages"/><br/><img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ramibinaffi-lgtm&theme=chartreuse-dark&hide_border=true" alt="Contribution Activity"/></div>---
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ramibinaffi-lgtm&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramibinaffi-lgtm&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+
+</div>
 
 🌐 Connect With Me
 <div align="center">""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/ramibinaffi-lgtm)
