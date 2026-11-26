@@ -5,8 +5,8 @@ Computer Science Student | Python & Java Developer
 
 Cybersecurity Enthusiast | Aspiring Penetration Tester
 
-""GitHub" (https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)" (https://github.com/ramibinaffi-lgtm)
-""Profile Views" (https://komarev.com/ghpvc/?username=ramibinaffi-lgtm&style=for-the-badge&color=00cc66)" (https://github.com/ramibinaffi-lgtm)
+[!GitHub] (https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)" (https://github.com/ramibinaffi-lgtm)
+[!Profile Views] (https://komarev.com/ghpvc/?username=ramibinaffi-lgtm&style=for-the-badge&color=00cc66)" (https://github.com/ramibinaffi-lgtm)
 
 BUILD • EXPLORE • SECURE • LEARN
 
