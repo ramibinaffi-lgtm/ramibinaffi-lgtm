@@ -39,20 +39,23 @@ My journey combines software engineering with information security, with a growi
 
 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,sqlite,js" />
-</p>Development Tools
+<h3 align="left">Languages</h3>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>Areas of Interest
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js" />
+</p>
 
-<p>
-<img src="https://img.shields.io/badge/Cybersecurity-111111?style=flat-square&logo=hackthebox&logoColor=00cc66"/>
-<img src="https://img.shields.io/badge/Penetration_Testing-111111?style=flat-square&logo=kalilinux&logoColor=00cc66"/>
-<img src="https://img.shields.io/badge/Web_Security-111111?style=flat-square&logo=owasp&logoColor=00cc66"/>
-<img src="https://img.shields.io/badge/Cryptography-111111?style=flat-square&logo=letsencrypt&logoColor=00cc66"/>
-</p>---
+<h3 align="left">Tools & Platforms</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,vscode,androidstudio" />
+</p>
+
+<h3 align="left">Cybersecurity</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kali,ubuntu,linux" />
+</p>
 
 🎯 Current Focus
 
