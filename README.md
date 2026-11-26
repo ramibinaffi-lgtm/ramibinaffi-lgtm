@@ -1,5 +1,5 @@
 # ramibinaffi-lgmt
-![ABO_AFFI Cybersecurity Banner](./assets/github-banner.png)
+![ABO_AFFI Cybersecurity Banner](./assets/github-banner.jpg)
 
 <div align="center">ABO_AFFI
 
