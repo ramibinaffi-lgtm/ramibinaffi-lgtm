@@ -1,21 +1,16 @@
 # ramibinaffi-lgmt
-<!--
-==================================================
-ABO_AFFI | GitHub Profile README
-==================================================
---><div align="center"><img src="./assets/github-banner.png.jpg" width="100%" alt="ABO_AFFI Cybersecurity Banner"/>👨‍💻 ABO_AFFI
+<div align="center">👨‍💻 ABO_AFFI
 
-Computer Science Student | Python Developer | Java Developer
+Computer Science Student | Python & Java Developer
 
 Cybersecurity Enthusiast | Aspiring Penetration Tester
 
 ""GitHub" (https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)" (https://github.com/ramibinaffi-lgtm)
-
 ""Profile Views" (https://komarev.com/ghpvc/?username=ramibinaffi-lgtm&style=for-the-badge&color=00cc66)" (https://github.com/ramibinaffi-lgtm)
 
-<br/>"BUILD" • "EXPLORE" • "SECURE" • "LEARN"
+BUILD • EXPLORE • SECURE • LEARN
 
-"Understand how technology works, build with purpose, and learn how to secure it."
+Understand how technology works, build with purpose, and learn how to secure it.
 
 </div>---
 
@@ -23,64 +18,58 @@ Cybersecurity Enthusiast | Aspiring Penetration Tester
 
 I'm a Computer Science student passionate about software development, cybersecurity, and building practical solutions.
 
-I enjoy turning ideas into working applications, exploring how systems operate behind the scenes, and continuously expanding my technical knowledge.
+I enjoy turning ideas into functional applications, exploring how systems work behind the scenes, and continuously expanding my technical knowledge.
 
-My journey combines software engineering with information security, with a growing focus on understanding vulnerabilities and learning how to build more secure systems.
+My journey combines software engineering and information security, with a growing focus on understanding vulnerabilities and learning how to build more secure systems.
 
 - 💻 Developing applications using Python and Java.
-- 🛡️ Studying Cybersecurity and Web Application Penetration Testing.
-- 🔐 Exploring Cryptography and Information Security.
-- 🐧 Learning Linux and strengthening my system fundamentals.
+- 🛡 Studying cybersecurity and web application penetration testing.
+- 🔐 Exploring cryptography and information security.
+- 🐧 Learning Linux and strengthening my system administration fundamentals.
 - 🚀 Building practical projects and improving through experimentation.
 
 ---
 
-🧰 Tech Stack & Tools
+🧰 Tools & Technologies
 
 Programming Languages
 
-<h3 align="left">Languages</h3>
+"Languages" (https://skillicons.dev/icons?i=python,java,html,css,js)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js" />
-</p>
+Tools & Platforms
 
-<h3 align="left">Tools & Platforms</h3>
+"Tools" (https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,vscode,androidstudio)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,vscode,androidstudio" />
-</p>
+Cybersecurity
 
-<h3 align="left">Cybersecurity</h3>
+"Cybersecurity" (https://skillicons.dev/icons?i=kali,linux)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kali,ubuntu,linux" />
-</p>
+---
 
 🎯 Current Focus
 
-- Improving Python and Java development skills.
+- Improving software development skills with Python and Java.
 - Building a solid foundation in Linux and system administration.
 - Studying web technologies from a security perspective.
 - Learning penetration testing methodologies and tools.
-- Understanding cryptographic algorithms and secure communication.
+- Understanding cryptographic algorithms and secure communications.
 - Applying theoretical knowledge through practical projects.
 
 ---
 
 🚀 Featured Projects
 
-🛡️ Security Telegram Bot — عفي
+🛡 Security Telegram Bot — عفي
 
 A Python-based Telegram bot project focused on providing automated services through an organized bot architecture, database management, and interactive interfaces.
 
 Technologies: Python · Telegram Bot API · SQLite
 
-🔐 SecureEncryptionApp
+🔐 Secure Encryption App
 
-A secure encryption application exploring modern cryptographic techniques and secure communication concepts.
+An encryption application exploring modern cryptographic techniques and secure communication concepts.
 
-Technologies: Python · Cryptography · Kivy
+Technologies: Python · Cryptography · Secure Communication
 
 📱 TablManager
 
@@ -88,29 +77,28 @@ An Android application for managing records, weapons, ammunition, and inventory 
 
 Technologies: Java · Android SDK · SQLite
 
-«These projects are works in progress. Their repositories document development, improvements, and future ideas.»
+«These projects are currently under development. Their repositories document development progress, improvements, and future ideas.»
 
 ---
 
 📊 GitHub Statistics
 
-<div align="center">
+<div align="center">"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=ramibinaffi-lgtm&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ramibinaffi-lgtm&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramibinaffi-lgtm&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-
-</div>
-
-🌐 Connect With Me
-<div align="center">""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/ramibinaffi-lgtm)
-
-""Email" (https://img.shields.io/badge/Email-Contact-00cc66?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:ramibinaffi@gmail.com)
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=ramibinaffi-lgtm&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>---
 
-<div align="center">⚡ Always Learning. Always Building. Always Improving.
+🌐 Connect With Me
+
+""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/ramibinaffi-lgtm)
+
+""Email" (https://img.shields.io/badge/Email-Contact-00cc66?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:ramibinaffi@gmail.com)
+
+---
+
+<div align="center">⚡ Continuous Learning. Continuous Building. Continuous Improvement.
 
 Thanks for visiting my profile!
 
-<img src="https://img.shields.io/badge/Keep_Learning-Keep_Building-00cc66?style=for-the-badge&logo=github&logoColor=white"/></div>
+</div>
