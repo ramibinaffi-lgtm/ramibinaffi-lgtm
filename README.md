@@ -1,5 +1,5 @@
 # ramibinaffi-lgmt
-![ABO_AFFI Cybersecurity Banner](./assets/github-banner.png.jpg)
+![ABO_AFFI Cybersecurity Banner](./assets/github-banner.png)
 
 <div align="center">ABO_AFFI
 
@@ -62,8 +62,8 @@ Operating Systems & Command Line
 
 Databases & Other Technologies
 
-[SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-[Cryptography](https://img.shields.io/badge/Cryptography-00CC66?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-00CC66?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
 ---
 
