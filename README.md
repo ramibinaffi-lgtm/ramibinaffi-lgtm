@@ -1,5 +1,5 @@
 # ramibinaffi-lgmt
-[ABO_AFFI Cybersecurity Banner](./assets/github-banner.png.jpg)
+![ABO_AFFI Cybersecurity Banner](./assets/github-banner.png.jpg)
 
 <div align="center">ABO_AFFI
 
@@ -7,7 +7,7 @@ Computer Science Student | Software Developer | Cybersecurity Enthusiast
 
 Python Developer • Java Developer • Aspiring Penetration Tester
 
-[Profile Views](https://komarev.com/ghpvc/?username=ramibinaffi-lgtm&style=for-the-badge&color=00cc66&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ramibinaffi-lgtm&style=for-the-badge&color=00cc66&label=PROFILE+VIEWS)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramibinaffi-lgtm)
 [![Email](https://img.shields.io/badge/Email-Contact-00cc66?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramibinaffi@gmail.com)
@@ -41,24 +41,24 @@ What I Do
 
 Programming Languages
 
-[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-[CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 Development Tools
 
-[Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-[GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-[VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-[Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 Operating Systems & Command Line
 
-[Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-[Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-[Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 Databases & Other Technologies
 
@@ -136,27 +136,27 @@ Technologies: Python
 
 📊 GitHub Statistics
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramibinaffi-lgtm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramibinaffi-lgtm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramibinaffi-lgtm&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramibinaffi-lgtm&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 🔥 Contribution Streak
 
-[GitHub Streak](https://streak-stats.demolab.com?user=ramibinaffi-lgtm&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ramibinaffi-lgtm&theme=tokyonight&hide_border=true)
 
 ---
 
 🏆 GitHub Achievements
 
-[GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ramibinaffi-lgtm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
+!GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ramibinaffi-lgtm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
 
 ---
 
 📈 Contribution Activity
 
-[Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramibinaffi-lgtm&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramibinaffi-lgtm&theme=tokyo-night&hide_border=true)
 
 ---
 
