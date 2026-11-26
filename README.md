@@ -105,7 +105,7 @@ Technologies: Java · Android SDK · SQLite
 🌐 Connect With Me
 <div align="center">""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/ramibinaffi-lgtm)
 
-""Email" (https://img.shields.io/badge/Email-Contact-00cc66?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:YOUR_EMAIL)
+""Email" (https://img.shields.io/badge/Email-Contact-00cc66?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:ramibinaffi@gmail.com)
 
 </div>---
 
