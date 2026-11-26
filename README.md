@@ -3,7 +3,7 @@
 
 <div align="center">ABO_AFFI
 
-Computer Science Student | Software Developer | Cybersecurity Enthusiast
+Information security Student | Software Developer | Cybersecurity Enthusiast
 
 Python Developer • Java Developer • Aspiring Penetration Tester
 
@@ -20,7 +20,7 @@ Understand technology. Build with purpose. Think securely.
 
 👨‍💻 About Me
 
-Hello! I'm a Computer Science student passionate about software development, cybersecurity, and understanding how technology works behind the scenes.
+Hello! I'm a Information Security student passionate about software development, cybersecurity, and understanding how technology works behind the scenes.
 
 I enjoy building practical applications, exploring system architecture, solving programming problems, and continuously improving my technical skills.
 
