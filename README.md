@@ -1,75 +1,120 @@
 # ramibinaffi-lgmt
-<div align="center">👨‍💻 ABO_AFFI
+[ABO_AFFI Cybersecurity Banner](./assets/github-banner.png.jpg)
 
-Computer Science Student | Python & Java Developer
+<div align="center">ABO_AFFI
 
-Cybersecurity Enthusiast | Aspiring Penetration Tester
+Computer Science Student | Software Developer | Cybersecurity Enthusiast
 
-[!GitHub] (https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)" (https://github.com/ramibinaffi-lgtm)
-[!Profile Views] (https://komarev.com/ghpvc/?username=ramibinaffi-lgtm&style=for-the-badge&color=00cc66)" (https://github.com/ramibinaffi-lgtm)
+Python Developer • Java Developer • Aspiring Penetration Tester
+
+[Profile Views](https://komarev.com/ghpvc/?username=ramibinaffi-lgtm&style=for-the-badge&color=00cc66&label=PROFILE+VIEWS)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramibinaffi-lgtm)
+[![Email](https://img.shields.io/badge/Email-Contact-00cc66?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramibinaffi@gmail.com)
 
 BUILD • EXPLORE • SECURE • LEARN
 
-Understand how technology works, build with purpose, and learn how to secure it.
+Understand technology. Build with purpose. Think securely.
 
 </div>---
 
-👋 About Me
+👨‍💻 About Me
 
-I'm a Computer Science student passionate about software development, cybersecurity, and building practical solutions.
+Hello! I'm a Computer Science student passionate about software development, cybersecurity, and understanding how technology works behind the scenes.
 
-I enjoy turning ideas into functional applications, exploring how systems work behind the scenes, and continuously expanding my technical knowledge.
+I enjoy building practical applications, exploring system architecture, solving programming problems, and continuously improving my technical skills.
 
-My journey combines software engineering and information security, with a growing focus on understanding vulnerabilities and learning how to build more secure systems.
+My long-term goal is to become a well-rounded cybersecurity professional and penetration tester, combining strong software development knowledge with practical security skills.
 
-- 💻 Developing applications using Python and Java.
-- 🛡 Studying cybersecurity and web application penetration testing.
-- 🔐 Exploring cryptography and information security.
-- 🐧 Learning Linux and strengthening my system administration fundamentals.
-- 🚀 Building practical projects and improving through experimentation.
+What I Do
+
+- 💻 Develop applications using Python and Java.
+- 🔐 Explore cryptography and secure software development.
+- 🛡️ Study cybersecurity and web application security.
+- 🐧 Learn Linux, Bash, and system administration.
+- 🌐 Explore networking and web technologies.
+- 🚀 Build practical projects and document my learning journey.
 
 ---
 
-🧰 Tools & Technologies
+🧰 Technical Skills & Technologies
 
 Programming Languages
 
-"Languages" (https://skillicons.dev/icons?i=python,java,html,css,js)
+[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Tools & Platforms
+Development Tools
 
-"Tools" (https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,vscode,androidstudio)
+[Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+[Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-Cybersecurity
+Operating Systems & Command Line
 
-"Cybersecurity" (https://skillicons.dev/icons?i=kali,linux)
+[Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+[Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+Databases & Other Technologies
+
+[SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+[Cryptography](https://img.shields.io/badge/Cryptography-00CC66?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
 ---
 
-🎯 Current Focus
+🛡️ Cybersecurity Interests
 
-- Improving software development skills with Python and Java.
-- Building a solid foundation in Linux and system administration.
-- Studying web technologies from a security perspective.
-- Learning penetration testing methodologies and tools.
-- Understanding cryptographic algorithms and secure communications.
-- Applying theoretical knowledge through practical projects.
+I'm building my knowledge in information security through structured learning and practical experimentation.
+
+Areas I'm interested in:
+
+- Web Application Security
+- Penetration Testing
+- Linux Security
+- Network Security
+- Ethical Hacking
+- Cryptography
+- Secure Software Development
+- Vulnerability Assessment
+
+My focus is on learning security concepts responsibly and practicing only in authorized environments.
 
 ---
 
+🎯 Current Learning Focus
+
+Area| Current Focus
+Python| Advanced programming and practical applications
+Java| OOP and software development
+Linux| Command line, file systems, permissions and processes
+Networking| Network fundamentals and security
+Web Security| Understanding web technologies and vulnerabilities
+Cryptography| Modern encryption and secure communication
+Penetration Testing| Methodologies, tools and authorized practice
+
+---
 🚀 Featured Projects
 
-🛡 Security Telegram Bot — عفي
+🤖 DemoAboAffi-bot
 
-A Python-based Telegram bot project focused on providing automated services through an organized bot architecture, database management, and interactive interfaces.
+A Python-based Telegram bot prototype exploring interactive bot interfaces, service workflows, and Telegram Bot API integration.
 
-Technologies: Python · Telegram Bot API · SQLite
+Technologies: Python · Telegram Bot API
 
-🔐 Secure Encryption App
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/ramibinaffi-lgtm/DemoAboAffi-bot)
 
-An encryption application exploring modern cryptographic techniques and secure communication concepts.
+🔐 Secure Encryption System
 
-Technologies: Python · Cryptography · Secure Communication
+A Python desktop application exploring secure communication, cryptographic identity management, digital signatures, and data protection.
+
+Technologies: Python · Cryptography · Desktop GUI
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/ramibinaffi-lgtm/Secure-Encryption-System)
 
 📱 TablManager
 
@@ -77,28 +122,60 @@ An Android application for managing records, weapons, ammunition, and inventory 
 
 Technologies: Java · Android SDK · SQLite
 
-«These projects are currently under development. Their repositories document development progress, improvements, and future ideas.»
+📚 Python Exercises
+
+A collection of Python exercises, programming practice, and hands-on experiments.
+
+Technologies: Python
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/ramibinaffi-lgtm/My_Python_exercises)
+
+«Some of my projects are still under development. I continuously improve their architecture, features, documentation, and code quality.»
 
 ---
 
 📊 GitHub Statistics
 
-<div align="center">"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=ramibinaffi-lgtm&show_icons=true&theme=tokyonight&hide_border=true)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramibinaffi-lgtm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=ramibinaffi-lgtm&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>---
-
-🌐 Connect With Me
-
-""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/ramibinaffi-lgtm)
-
-""Email" (https://img.shields.io/badge/Email-Contact-00cc66?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:ramibinaffi@gmail.com)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramibinaffi-lgtm&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-<div align="center">⚡ Continuous Learning. Continuous Building. Continuous Improvement.
+🔥 Contribution Streak
 
-Thanks for visiting my profile!
+[GitHub Streak](https://streak-stats.demolab.com?user=ramibinaffi-lgtm&theme=tokyonight&hide_border=true)
+
+---
+
+🏆 GitHub Achievements
+
+[GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ramibinaffi-lgtm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
+
+---
+
+📈 Contribution Activity
+
+[Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramibinaffi-lgtm&theme=tokyo-night&hide_border=true)
+
+---
+
+🌐 Connect With Me
+
+I'm always interested in learning, collaborating, exchanging ideas, and discussing software development and cybersecurity.
+
+[![GitHub](https://img.shields.io/badge/GitHub-ramibinaffi--lgtm-181717?style=for-the-badge&logo=github)](https://github.com/ramibinaffi-lgtm)
+
+[![Email](https://img.shields.io/badge/Email-ramibinaffi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramibinaffi@gmail.com)
+
+---
+
+<div align="center">⚡ My Philosophy
+
+Learn Deeply. Build Practically. Think Critically. Secure Everything.
+
+Continuous Learning • Continuous Building • Continuous Improvement
+
+Thank you for visiting my GitHub profile! 👋
 
 </div>
